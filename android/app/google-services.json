@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184948073218",
+    "project_id": "phc-lab-c39e3",
+    "storage_bucket": "phc-lab-c39e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184948073218:android:9f3eaad887d26bd9d3d81b",
+        "android_client_info": {
+          "package_name": "com.phclab.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0L-h-L1S2gAzEMcQFj3VCvWgdLs8H56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
