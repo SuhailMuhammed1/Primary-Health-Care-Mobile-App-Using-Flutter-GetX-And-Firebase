@@ -79,9 +79,6 @@ class AppRoutes {
     ),
     GetPage(
       name: initialRoute,
-      // page: () => SplashScreen(),
-      // bindings: [
-      //   SplashBinding(),
       page: () => LoginScreen(),
       bindings: [
         LoginBinding(),
