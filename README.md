@@ -1,46 +1,21 @@
 
-# phc_lab
+# Primary Health Care Mobile App Using Flutter GetX and Firebase
 ### Table of contents
 - [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
 - [Check the UI of the entire app](#app-navigations)
-- [Facebook authentication configuration](#facebook-authentication-configuration)
-- [Google authentication configuration](#google-authentication-configuration)
 - [Application structure](#project-structure)
 - [How to format your code?](#how-you-can-do-code-formatting)
 - [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
 - [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
 
 ### System requirements
 
 Dart SDK Version 2.18.0 or greater.
 Flutter SDK Version 3.3.0 or greater.
 
-### Figma design guidelines for better UI accuracy
-
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
-
 ### Check the UI of the entire app
 
 Check the UI of all the app screens from a single place by setting up the 'initialRoute'  to AppNavigation in the AppRoutes.dart file.
-
-### Facebook authentication configuration
-
-Steps:
-- Follow the steps on https://pub.dev/packages/flutter_login_facebook for Facebook login and only update app_id and client_token in your project.
-- For Android:
-    - Update facebook_app_id and facebook_client_token in /android/app/src/main/res/values/strings.xml  file.
-- For iOS:
-    - Configure Info.plist (ios/Runner/Info.plist) file and update APP_ID and CLIENT_TOKEN.
-
-### Google authentication configuration
-
-Steps:
-- Follow the steps on https://pub.dev/packages/google_sign_in for Google sign-in.
-- For iOS:
-    - Download the GoogleService-Info.plist  file. Drag and drop the downloaded file into the Runner subfolder and update Info.plist  file.
 
 ### Application structure
 
@@ -92,6 +67,3 @@ Resolve the errors and warnings that are shown in the application.
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
 
-### Support
-
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
