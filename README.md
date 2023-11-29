@@ -4,10 +4,10 @@
 - [Introduction](#introduction)
 - [System requirements](#system-requirements)
 - [Technologies used](#technologies-used)
-- [Check the UI of the entire app](#app-navigations)
+- [Check the UI of the entire app](#check-the-ui-of-the-entire-app)
 - [Application structure](#application-structure)
-- [How to format your code?](#how-to-formate-your-code?)
-- [How you can improve code readability?](#how-you-can-improve-code-readability?)
+- [How to format your code?](#how-to-format-your-code)
+- [How you can improve code readability?](#how-you-can-improve-code-readability)
 - [Libraries and tools used](#libraries-and-tools-used)
 - [Screenshots](#screenshots)
 
@@ -82,4 +82,4 @@ Resolve the errors and warnings that are shown in the application.
 
 ### Screenshots
 
-![8-imageonline co-merged (1)-imageonline co-merged (1)](https://github.com/SuhailMuhammed1/Primary-Health-Care-Mobile-App-Using-Flutter-GetX-And-Firebase/assets/104970300/41d8e262-f4bd-4298-b4f3-497d0a9bd60d)
+![8-imageonline co-merged (1)-imageonline co-merged (1)](https://github.com/SuhailMuhammed1/Primary-Health-Care-Mobile-App-Using-Flutter-GetX-And-Firebase/assets/104970300/716a1d78-ae07-4338-a403-7fd414023d04)
