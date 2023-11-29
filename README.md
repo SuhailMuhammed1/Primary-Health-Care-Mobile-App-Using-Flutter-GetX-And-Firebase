@@ -1,17 +1,29 @@
-
 # Primary Health Care Mobile App Using Flutter GetX and Firebase
+
 ### Table of contents
+- [Introduction](#introduction)
 - [System requirements](#system-requirements)
+- [Technologies used](#technologies-used)
 - [Check the UI of the entire app](#app-navigations)
 - [Application structure](#project-structure)
 - [How to format your code?](#how-you-can-do-code-formatting)
 - [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
 - [Libraries and tools used](#libraries-and-tools-used)
 
+### Introduction
+
+Welcome to PHC Lab, your trusted companion for managing and accessing your health reports with ease and security. Whether you're a healthcare professional or an individual taking charge of your well-being, PHC Lab empowers you to create, view, edit, delete, and securely share your lab reports in a seamless digital environment.
+
 ### System requirements
 
 Dart SDK Version 2.18.0 or greater.
 Flutter SDK Version 3.3.0 or greater.
+
+### Technologies Used
+
+* Front-end: Flutter
+* Database: Firebase
+* State management: GetX
 
 ### Check the UI of the entire app
 
