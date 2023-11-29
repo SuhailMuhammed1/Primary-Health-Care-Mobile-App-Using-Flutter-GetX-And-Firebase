@@ -5,10 +5,11 @@
 - [System requirements](#system-requirements)
 - [Technologies used](#technologies-used)
 - [Check the UI of the entire app](#app-navigations)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
+- [Application structure](#application-structure)
+- [How to format your code?](#how-to-formate-your-code?)
+- [How you can improve code readability?](#how-you-can-improve-code-readability?)
 - [Libraries and tools used](#libraries-and-tools-used)
+- [Screenshots](#screenshots)
 
 ### Introduction
 
@@ -79,3 +80,6 @@ Resolve the errors and warnings that are shown in the application.
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
 
+### Screenshots
+
+![8-imageonline co-merged (1)-imageonline co-merged (1)](https://github.com/SuhailMuhammed1/Primary-Health-Care-Mobile-App-Using-Flutter-GetX-And-Firebase/assets/104970300/41d8e262-f4bd-4298-b4f3-497d0a9bd60d)
